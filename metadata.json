@@ -1,0 +1,11 @@
+{
+  "name": "Summon",
+  "description": "Effortless, keyboard-driven window management",
+  "uuid": "summon@wastedintelligence.com",
+  "shell-version": [
+    "45"
+  ],
+  "url": "https://github.com/jmacdonald/summon",
+  "gettext-domain": "summon@wastedintelligence.com",
+  "settings-schema": "org.gnome.shell.extensions.summon"
+}
