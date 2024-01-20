@@ -1,0 +1,3 @@
+#!/bin/sh
+
+nix-shell -p glib --run "glib-compile-schemas schemas"
