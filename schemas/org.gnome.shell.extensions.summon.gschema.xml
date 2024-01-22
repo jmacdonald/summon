@@ -2,7 +2,7 @@
 <schemalist>
   <schema id="org.gnome.shell.extensions.summon" path="/org/gnome/shell/extensions/summon/">
     <key name="firefox-summon" type="as">
-      <default><![CDATA[ ['<Ctrl>h'] ]]></default>
+      <default><![CDATA[ ['<Super>h'] ]]></default>
     </key>
   </schema>
 </schemalist>
